@@ -2,9 +2,5 @@ pytest==7.4.3
 pytest-cov==4.1.0
 pylint==3.0.2
 black==23.11.0
-ipython==8.18.1
 
-
-#command was -> pip freeze | less 
-#and with that we can able to see versions of lib's
 
